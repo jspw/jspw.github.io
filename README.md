@@ -5,6 +5,7 @@
 <!-- <img align='center' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jspw&hide_border=true&layout=compact"> -->
 <p/>
 
+
 This is **Mehedi Hasan Shifat** currently studying **Software Engineering** in **Shahjalal University of Science and Technology**,Sylhet :bangladesh:.
 
 I'm also a Full Stack Web (Django,React) and Android (Flutter) Application Developer, Open-Source and Linux Enthusiast.
@@ -12,8 +13,6 @@ I'm also a Full Stack Web (Django,React) and Android (Flutter) Application Devel
 <p align='center'>
  <a href = "https://drive.google.com/file/d/1I9lM-oZ2gGPW2OxbU0kr3koeCzS9O-o-/view?usp=sharing" > 🧠 Here is my Resume </a> 
 <p/>
-
-<hr>
 
 
 ### Currently Learning 
